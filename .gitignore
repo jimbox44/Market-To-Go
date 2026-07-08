@@ -1,0 +1,8 @@
+target/
+build/
+comprobantes/
+sesion.ser
+*.class
+.idea/
+nbproject/private/
+*.iml
